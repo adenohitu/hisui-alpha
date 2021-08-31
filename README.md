@@ -16,8 +16,8 @@ Copyright © 2021 adenohitu. All rights reserved.
 
 <img width="1440" alt="スクリーンショット 2021-05-29 17 41 58" src="https://user-images.githubusercontent.com/49752462/131492468-2c06d98b-32b2-40ef-a387-a4d861e1e5a7.png">
 
-競技プログラミングサポートツールです  
-AtCoder に対応したのち Codeforces などの様々な競プロサイトに対応予定です  
+競技プログラミングサポートツールです。  
+AtCoder に対応したのち Codeforces などの様々な競プロサイトに対応予定です。  
 Competitive programming support tool.  
 After supporting "AtCoder", we plan to support other Competitive programming sites such as "Codeforces".
 
