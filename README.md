@@ -1,4 +1,4 @@
-# Hisui---hisui-alpha
+# Hisui-alpha
 
 このリポジトリは Alpha 版リリースリポジトリです。  
 Project Name : Hisui  
