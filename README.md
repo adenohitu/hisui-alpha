@@ -1,6 +1,6 @@
 # Hisui-alpha
 
-このリポジトリは Alpha 版リリースリポジトリです。  
+このリポジトリは Alpha 版リリース用です。  
 Project Name : Hisui  
 Copyright © 2021 adenohitu. All rights reserved.
 
