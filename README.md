@@ -1,4 +1,6 @@
 # Hisui-alpha
+このリポジトリはアーカイブされています。  
+リリースは[adenohitu/hisui](https://github.com/adenohitu/hisui)に移動しました
 
 このリポジトリは Alpha 版リリース用です。  
 Project Name : Hisui  
